@@ -1,6 +1,6 @@
 # sales-predictions
 
-The following is an analysis of trends in sales data and how we can use these trends in sales to better predict and optimize future business decisions 
+This is an ongoing python project I am working on.  The following is an analysis of trends in sales data and how we can use these trends in sales to better predict and optimize future business decisions 
 
 The slides have visuals and descriptions of the most relevant figures. Of most important note as a brief summary 
 
